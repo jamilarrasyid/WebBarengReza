@@ -5,7 +5,7 @@ Halo semua. Di sini gw akan membagikan beberapa link yang mungkin akan berguna b
 ## Smapi
 Aplikasi ini merupakan syarat apabila kalian mau menggunakan mod di Stardew Valley.[^1]
 - Smapi untuk PC ([smapi.io](https://smapi.io/) ***atau***  [Nexus](https://www.nexusmods.com/stardewvalley/mods/2400))
-- [Smapi untuk Android](https://github.com/ZaneYork/SMAPI-Android-Installer/releases))
+- [Smapi untuk Android](https://github.com/ZaneYork/SMAPI-Android-Installer/releases)
 
 ## Planner
 Di Website ini kalian bisa merencanakan desain untuk farm Stardew Valley kalian.
