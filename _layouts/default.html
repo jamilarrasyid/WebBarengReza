@@ -31,7 +31,9 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
         -->
-        <center><button onclick="darkMode()">Toggle dark mode</button></center>
+        <div class="buttons-container">
+          <center><button class="button-arounder" onclick="darkMode()">Toggle dark mode</button></center>
+        </div>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
