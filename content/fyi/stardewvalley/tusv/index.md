@@ -1,3 +1,5 @@
+# Trivia Unik Stardew Valley
+
 Halo semua, balik lagi bareng gw. Karena gw gabut jadi gw mau share ke kalian beberapa Trivia unik menurut gw di game SV.
 
 - [Haley](https://stardewvalleywiki.com/Haley)
