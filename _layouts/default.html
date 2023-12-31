@@ -31,7 +31,7 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
         -->
-        <button onclick="darkmode()">Toggle dark mode</button>
+        <center><button onclick="darkMode()">Toggle dark mode</button></center>
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -52,6 +52,11 @@
         <p><small>Di host melalui Github &mdash; menggunakan tema dari <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/script.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}">
+        function DarkMode() {
+           var element = document.body;
+           element.classList.toggle("dark-mode");
+        }
+    </script>
   </body>
 </html>
