@@ -25,3 +25,7 @@
         document.addEventListener("touchend", gestureEnd, false);
     }
 })(document);
+(function darkmode() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+})(darkmode);
