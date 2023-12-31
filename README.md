@@ -1,5 +1,4 @@
 # Halaman Utama
-Terima kasih telah mengunjungi halaman web ini.
 
 Halaman web ini masih berstatus **under constuction**.<br>
 Mohon maaf atas keidaknyamanannya.
