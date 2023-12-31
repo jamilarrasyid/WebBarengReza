@@ -1,7 +1,7 @@
 Halo semua, balik lagi bareng gw. Karena gw gabut jadi gw mau share ke kalian beberapa Trivia unik menurut gw di game SV.
 
 - [Haley](https://stardewvalleywiki.com/Haley)
-  - Setelah kalian ||berfoto|| bareng Haley di event 8 hati, kalau kalian mengklik/memencet potrait Haley di sosial menu maka Ia akan berpose.
+  - Setelah kalian berfoto bareng Haley di event 8 hati, kalau kalian mengklik/memencet potrait Haley di sosial menu maka Ia akan berpose.
 
 - [Elliot](https://stardewvalleywiki.com/Elliott%27s_Cabin)
   - Lukisan di rumah Elliot ternyata dibuat sama Leah.
