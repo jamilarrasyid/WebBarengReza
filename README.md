@@ -1,8 +1,8 @@
 # Halaman Utama
 Terima kasih telah mengunjungi halaman web ini.
 
-<p>Halaman web ini masih berstatus **under constuction**.<br>
-Mohon maaf atas keidaknyamanannya.</p>
+Halaman web ini masih berstatus **under constuction**.<br>
+Mohon maaf atas keidaknyamanannya.
 
 Terima Kasih. (Reza)
 
