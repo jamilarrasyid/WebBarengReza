@@ -1,6 +1,7 @@
-.dark-mode {
+
+@import "jekyll-theme-minimal";
+
+body.dark-mode {
   background-color: #0d1117;
   color: #c9d1d9;
 }
-
-@import "jekyll-theme-minimal";
