@@ -1,4 +1,4 @@
-# Tag: Novel
+# Topik: Novel
 
 Semua yang berkaitan dengan Novel.
 
