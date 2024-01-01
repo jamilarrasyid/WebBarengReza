@@ -9,7 +9,7 @@ dari **Reza Hidayat M**.
 
 Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat oleh seorang developer antusias [ConcernedApe](https://twitter.com/ConcernedApe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Karena aku gabut jadi aku mau share ke kalian beberapa Trivia unik menurutku di game Stardew Valley. *[lanjut baca.](rezahidayatm/game/svtriviaunik/)*
 
-<small class="right">- tag: [game](/content/tag/game/)</small>
+<div class="textright"><small>- tag: [game](/content/tag/game/)</small></div>
 
 ----
 
@@ -22,7 +22,7 @@ dari **Amelia Zahara**.
 
 “Begitu-pula-lah seharunya dongeng kita. Berjanji-lah tak akan pernah mati sebelum menyelesaikannya. Tidak akan. Sekali kita berhasil menyelesaikan-nya... *[lanjut baca.](ameliazahara/novel/hargasebuahpercaya/)*
 
-<small class="right">- tag: [novel](/content/tag/novel/)</small>
+<div class="textright"><small>- tag: [novel](/content/tag/novel/)</small></div>
 
 ----
 
@@ -31,7 +31,7 @@ dari **Reza Hidayat M**
 
 *[lanjut baca.](rezahidayatm/anime/frierensetelahperjalananberakhir/)*
 
-<small class="right">- tag: [anime](/content/tag/anime/)</small>
+<div class="textright"><small>- tag: [anime](/content/tag/anime/)</small></div>
 
 ----
 
@@ -42,5 +42,5 @@ Kali ini dengan effort anak muda yang menggelora, punya banyak waktu sekali untu
 
 Anime kali ini masih dikerjakan oleh staf yang sebelumnya bekerja pada seri anime, Anohana (the flower we saw that day). Dan si Cung juga bilang kalau ini anime diproduksi oleh produksi terbaik di Jepang. Kalau aku tidak salah, anime ini diproduksi oleh A-1 Picture. Dengan judul The Anthem Of the Heart (Kokoro ga Sakebitagatterunda). Yang sudah dirilis di bioskop Jepang sejak 19 September... *[lanjut baca.](ameliazahara/anime/theanthemoftheheart/)*
 
-<small class="right">- tag: [anime](/content/tag/anime/)</small>
+<div class="textright"><small>- tag: [anime](/content/tag/anime/)</small></div>
 ----
