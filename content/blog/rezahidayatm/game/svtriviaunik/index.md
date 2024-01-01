@@ -35,3 +35,5 @@ Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat
 
 **Bonus**: Penampakan Stardew Valley di tahun 2013.
 ![Seasonal Greeting 2013](img/seasonsGreetings.png)
+
+<div class="textright"><small>- topik: <a href="/content/topik/game/">game</a></small></div>

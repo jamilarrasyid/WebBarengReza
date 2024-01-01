@@ -88,4 +88,6 @@ Jim tergugu, tubuh tergelangtung itu bergetar.
 
 Jim dan Pate terdiam.
 
-> diambil Dari buku berjudul 'Harga Sebuah Percaya' karangan Tere Liye, dikutip pada hlm. 258-260 dan hlm. 278-284
+> Diambil dari buku berjudul 'Harga Sebuah Percaya' karangan Tere Liye, dikutip pada hlm. 258-260 dan hlm. 278-284
+
+<div class="textright"><small>- topik: <a href="/content/topik/novel/">novel</a></small></div>

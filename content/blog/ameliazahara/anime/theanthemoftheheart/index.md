@@ -191,4 +191,5 @@ Ingin mendengar suara Jun lebih banyak, Takumi mengizinkan Jun untuk mengeluarka
 Jun dan Takumi tiba tepat sebelum adegan terakhir, membuat Jun dapat menyanyikan dan mengungkapkan perasaannya di depan ibunya yang akhirnya memahami apa yang selama ini dialami oleh Jun. Ketika pertunjukan berakhir, Jun menyadari bahwa telur peri tersebut sebenarnya bukan apa-apa melainkan hanya sebuah imajinasi yang dia ciptakan sendiri sehingga dirinya bisa menyalahkan seseorang atas kondisinya. 
 
 Kini dia mencoba untuk membuka hatinya, begitu pula dengan masa lalunya. Di penghujung film, Takumi dan Natsuki memperbaiki kembali hubungan mereka, sementara Daiki akhirnya mengungkapkan rasa sukanya kepada Jun.
->>> 
+
+<div class="textright"><small>- topik: <a href="/content/topik/anime/">anime</a></small></div>

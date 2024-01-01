@@ -28,3 +28,5 @@ Aplikasi ini akan membantu kalian untuk memprediksi tangga di Mine, mencari [Cla
 
 ### Catatan kaki
 [^1]: Link ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) di Stardew Valley Wiki, jadi gw pastikan 100% aman
+
+<div class="textright"><small>- topik: <a href="/content/topik/game/">game</a></small></div>
