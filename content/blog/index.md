@@ -4,10 +4,10 @@ Selamat datang di halaman blog. Silahkan pilih konten yang kamu rasa menarik.
 
 ----
 
-<div class="blogtitle"><h3><a href="rezahidayatm/game/triviauniksv/">Trivia Unik dari Game Stardew Valley</a></h3></div>
+<div class="blogtitle"><h3><a href="rezahidayatm/game/svtriviaunik/">Trivia Unik dari Game Stardew Valley</a></h3></div>
 dari **Reza Hidayat M**.
 
-Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat oleh seorang developer antusias [ConcernedApe](https://twitter.com/ConcernedApe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Karena aku gabut jadi aku mau share ke kalian beberapa Trivia unik menurutku di game Stardew Valley. *[lanjut baca.](rezahidayatm/game/triviauniksv/)*
+Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat oleh seorang developer antusias [ConcernedApe](https://twitter.com/ConcernedApe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Karena aku gabut jadi aku mau share ke kalian beberapa Trivia unik menurutku di game Stardew Valley. *[lanjut baca.](rezahidayatm/game/svtriviaunik/)*
 
 <small class="right">- tag: [game](/content/tag/game/)</small>
 
