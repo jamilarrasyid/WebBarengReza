@@ -4,10 +4,10 @@ Selamat datang di halaman blog. Silahkan pilih konten yang kamu rasa menarik.
 
 ----------------------------
 
-<div class="blogtitle"><h3><a href="content/blog/rezahidayatm/anime/frierensetelahperjalananberakhir/">Frieren: Journey Beyond's End</a></h3></div>
+<div class="blogtitle"><h3><a href="/content/blog/rezahidayatm/anime/frierensetelahperjalananberakhir/">Frieren: Journey Beyond's End</a></h3></div>
 dari **Reza Hidayat M**
 
-*[lanjut baca.](content/blog/rezahidayatm/anime/frierensetelahperjalananberakhir/)*
+*[lanjut baca.](/content/blog/rezahidayatm/anime/frierensetelahperjalananberakhir/)*
 
 -----------------------------
 
