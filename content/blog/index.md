@@ -4,6 +4,13 @@ Selamat datang di halaman blog. Silahkan pilih konten yang kamu rasa menarik.
 
 ----------------------------
 
+### Frieren: Journey Beyond's End
+dari **Reza Hidayat M**
+
+*[lanjut baca.](https://main.barengreza.my.id/content/blog/rezahidayatm/anime/frierensetelahperjalananberakhir/)*
+
+-----------------------------
+
 ### The Anthem of The Heart (Kokoro ga Sakebitagatterunda)
 dari **Amelia Zahara**.
 
@@ -12,4 +19,3 @@ Kali ini dengan effort anak muda yang menggelora, punya banyak waktu sekali untu
 Anime kali ini masih dikerjakan oleh staf yang sebelumnya bekerja pada seri anime, Anohana (the flower we saw that day). Dan si Cung juga bilang kalau ini anime diproduksi oleh produksi terbaik di Jepang. Kalau aku tidak salah, anime ini diproduksi oleh A-1 Picture. Dengan judul The Anthem Of the Heart (Kokoro ga Sakebitagatterunda). Yang sudah dirilis di bioskop Jepang sejak 19 September... *[lanjut baca.](https://main.barengreza.my.id/content/blog/ameliazahara/anime/theanthemoftheheart/)*
 
 ------------------------------------------------
-
