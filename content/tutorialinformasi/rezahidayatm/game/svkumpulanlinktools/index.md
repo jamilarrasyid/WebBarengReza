@@ -26,7 +26,8 @@ Website ini akan memberitahu kalian prediksi kejadian di dalam game, seperti kap
 Aplikasi ini akan membantu kalian untuk memprediksi tangga di Mine, mencari [Clay](https://stardewvalleywiki.com/Clay), dan banyak lagi.
 - [Map Predictor](https://www.nexusmods.com/stardewvalley/mods/6614) (PC Only)
 
+<div class="textright"><small>- topik: <a href="/content/topik/game/">game</a></small></div>
+
 ### Catatan kaki
 [^1]: Link ini diambil dari [Panduan Modding](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) di Stardew Valley Wiki, jadi gw pastikan 100% aman
 
-<div class="textright"><small>- topik: <a href="/content/topik/game/">game</a></small></div>
