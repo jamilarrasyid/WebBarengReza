@@ -1,8 +1,6 @@
-# Tag: Anime
+# Topik: Anime
 
 Semua yang berkaitan dengan Anime.
-
-*Lihat [Daftar tag](/content/tag/)*
 
 ----
 
