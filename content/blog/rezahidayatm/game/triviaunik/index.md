@@ -1,6 +1,6 @@
 # Trivia Unik Stardew Valley
 
-Halo semua, balik lagi bareng gw. Karena gw gabut jadi gw mau share ke kalian beberapa Trivia unik menurut gw di game SV.
+Halo semua, balik lagi bareng aku. Stardew Valley adalah sebuah game yang dibuat oleh seorang developer antusias [ConcernedApe](https://twitter.com/ConcernedApe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Karena aku gabut jadi aku mau share ke kalian beberapa Trivia unik menurutku di game Stardew Valley.
 
 - [Haley](https://stardewvalleywiki.com/Haley)
   - Setelah kalian berfoto bareng Haley di event 8 hati, kalau kalian mengklik/memencet potrait Haley di sosial menu maka Ia akan berpose.
