@@ -2,8 +2,6 @@
 
 Semua yang berkaitan dengan Game.
 
-*Lihat [Daftar tag](/content/tag/)*
-
 ----
 
 - [Kumpulan Link Tool Stardew Valley](/content/tutorialinformasi/rezahidayatm/game/svkumpulanlinktools/) dari **Reza Hidayat M**
