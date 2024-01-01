@@ -2,6 +2,8 @@
 
 Selamat datang di halaman blog. Silahkan pilih konten yang kamu rasa menarik.
 
+----------------------------
+
 ### The Anthem of The Heart (Kokoro ga Sakebitagatterunda)
 dari **Amelia Zahara**.
 
