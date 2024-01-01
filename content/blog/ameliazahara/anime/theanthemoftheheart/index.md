@@ -1,6 +1,6 @@
-[^1]: *Blog ini ditulis ditulis oleh __[Amelia Zahara](https://www.blogger.com/profile/03587669607608691114)__* -- *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
+- *Blog ini ditulis ditulis oleh __[Amelia Zahara](https://www.blogger.com/profile/03587669607608691114)__* -- *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
 
-# The Anthem of The Heart (Kokoro ga Sakebitagatterunda)[^1]
+# The Anthem of The Heart (Kokoro ga Sakebitagatterunda)
 
 Kali ini dengan effort anak muda yang menggelora, punya banyak waktu sekali untuk menyelesaikan tantangan, bukan tantangan sih tepatnya sebuah permintaan (request) dari seseorang pecinta anime sebut saja dia, Si Cung. Beberapa hari lalu si Cung sedikit memaksa untuk menonton anime dengan judul yang telah disebutkan, juga dengan link download yang telah dia berikan. Oke baik, jiwa muda ini mnggelora tantangan diterima. 
 
