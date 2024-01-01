@@ -9,6 +9,6 @@ dari **Reza Hidayat M**.
 
 Berisi kumpulan-kumpulan link tools yang mungkin berguna untuk perjalanan Stardew Valley Kalian. *[Lihat.](rezahidayatm/game/svkumpulanlinktools/)*
 
-<small>tag [game](/content/tag/game/)</small>
+<small class="right">- tag: [game](/content/tag/game/)</small>
 
 ----
