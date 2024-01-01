@@ -1,4 +1,4 @@
-- *Blog ini ditulis ditulis oleh __[Amelia Zahara](https://www.blogger.com/profile/03587669607608691114)__* <p>&mdash</p>; *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
+- *Blog ini ditulis ditulis oleh __[Amelia Zahara](https://www.blogger.com/profile/03587669607608691114)__* -- *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
 
 # The Anthem of The Heart (Kokoro ga Sakebitagatterunda)
 
