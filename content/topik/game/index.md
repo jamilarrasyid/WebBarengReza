@@ -1,8 +1,6 @@
-# Tag: Game
+# Topik: Game
 
 Semua yang berkaitan dengan Game.
-
-*Lihat [Daftar tag](/content/tag/)*
 
 ----
 

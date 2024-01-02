@@ -1,4 +1,4 @@
-*Blog ditulis ditulis oleh __[Amelia Zahara](https://www.blogger.com/profile/03587669607608691114)__* -- *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
+*Blog ditulis ditulis oleh __[Amelia Zahara](/content/kontributor/ameliazahara)* -- *Kunjungi [halaman blognya](https://ameliazaharas.blogspot.com/) untuk melihat lebih banyak konten.*
 
 ----
 
