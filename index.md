@@ -1,7 +1,7 @@
 # Halaman Utama
 
-Halaman web ini masih berstatus **under constuction**.<br>
-Mohon maaf atas keidaknyamanannya.
+Halaman web ini masih berstatus **under construction**.<br>
+Mohon maaf atas ketidaknyamanannya.
 
 Terima Kasih. (Reza)
 
